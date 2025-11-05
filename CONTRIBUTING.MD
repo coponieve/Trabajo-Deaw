@@ -22,13 +22,13 @@
 
 ### 🎯 contacto de nuestros equipo
 
-**Yuly Caraballo:**
+*Yuly Caraballo:*
     -Email:vanehill@gmail.com
     -usuario de Github:https://github.com/vanehill-create
-**kevin sangoluisa:**
+*kevin sangoluisa:*
     -Email:kev69806@gmail.com
     -Usuario de github:https://github.com/coponieve
-**Ming peng Jin:**
+*Ming peng Jin:*
     -Email:mingpengjin01@gmail.com
     -usuario de github:https://github.com/mingpengjin01-cell
 ---
