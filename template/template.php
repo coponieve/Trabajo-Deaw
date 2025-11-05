@@ -1,3 +1,22 @@
+<?php
+/**
+ * Plantilla principal del sitio web
+ *
+ * Este archivo define la estructura HTML general del sitio web.
+ *
+ * 
+ *
+ * @version    1.0.0
+ * @author     jin
+ * 
+ * - site_name(): Sirve para mostrar nombre de sitio .
+ * - site_path(): Este codigo sirve para devolver la ruta base del sitio.
+ * - site_version(): Para mostrar la version de sitio.
+ * - page_title(): Para mostrar el titulo de la pagina.
+ * - page_content():Para mostrar el contenido dinamico de la pagian.
+ * - nav_menu(): Es una funcion que puede mostrar menus personalizados en WordPress.
+ */
+?>
 <!DOCTYPE html>
 <html>
 <head>
