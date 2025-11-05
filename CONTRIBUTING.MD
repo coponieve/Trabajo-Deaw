@@ -16,7 +16,11 @@
 ### 📂 Contribucion de cada participante
 
 -Yuly Caraballo: se encargo principalmente del directorio includes con sus archivos de trabajo, tambien se encargo de home.pthml
+
+
 -Ming peng jin: se encargo de run.php, del directorio template y de products.phtml
+
+
 -Kevin sangoluisa: se encargo de 404.phml, about-us,contact, administrar y aprobar los pull request 
 
 
